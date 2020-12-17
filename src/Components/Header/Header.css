@@ -1,0 +1,22 @@
+header {
+	position: relative;
+	z-index: 1;
+	padding: 2rem;
+}
+
+header.dark {
+	background: #333;
+	color: #fff;
+}
+
+header.light {
+	background: #f0f0f0;
+	color: #000;
+}
+
+.select-lang {
+	position: absolute;
+	z-index: 1;
+	top: 50px;
+	right: 50px;
+}

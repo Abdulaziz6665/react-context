@@ -1,0 +1,21 @@
+#login {
+	padding: 3rem;
+}
+
+label {
+	cursor: pointer;
+	margin-bottom: 1rem;
+}
+.input {
+	display: flex;
+	flex-direction: column;
+	padding: 2rem;
+	border: 0.5rem solid black;
+	margin-bottom: 1rem;
+}
+button:disabled {
+	opacity: 0.3;
+}
+select {
+	margin-bottom: 2rem;
+}
